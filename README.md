@@ -1,5 +1,6 @@
  <img align="right" alt="Coding" width="1000" src="banner.gif">
- <hr>
+<br>
+<hr>
 <p>Hi there! Welcome to my GitHub. I am a front-end developer with a lil experience in some back-end languages. I'm constantly self improving, learning new techniques to optimize my code etc.</p>
 
  <a href="cv.pdf">Take a Look at my CV!</a>
