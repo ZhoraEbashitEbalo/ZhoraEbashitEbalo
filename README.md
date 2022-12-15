@@ -1,4 +1,4 @@
- <img align="right" alt="Coding" width="400" src="banner.gif">
+ <img align="right" alt="Coding" width="1000" src="banner.gif">
 <!--
 **ZhoraEbashitEbalo/ZhoraEbashitEbalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
