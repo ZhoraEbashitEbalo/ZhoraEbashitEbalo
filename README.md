@@ -11,7 +11,7 @@
       <li> ⚡ Tenacious - persistently determined to solve problems</li>
 </ul>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/gerard-akpeki352) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/gerard-eki352) 
 [![My CV](https://img.shields.io/badge/Portfolio-d48430?style=for-the-badge)](https://github.com/ZhoraEbashitEbalo/ZhoraEbashitEbalo/blob/main/CV%20-%20Gerard%20Akpeki.pdf) 
 
 <!--
