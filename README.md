@@ -1,18 +1,3 @@
-<style>
- button {
-  display: inline-block;
-  background-color: #7b38d8;
-  padding: 20px;
-  width: 200px;
-  color: #ffffff;
-  text-align: center;
-  border: 4px double #cccccc;
-  border-radius: 10px;
-  font-size: 28px;
-  cursor: pointer; /* add this line */
-  margin: 5px; /* add this line */
-}
-</style>
  <img align="center" alt="Coding" width="1000" src="banner.gif">
 <hr size="6" width="100%">  
 <p>Welcome to my GitHub! I'm a passionate and innovative front-end web developer with an unwavering commitment to creating visually stunning and user-centric digital experiences. I am also: </p>
@@ -25,8 +10,8 @@
       <li> 📫 Agile - in a constant state of acclimatization</li>
       <li> ⚡ Tenacious - persistently determined to solve problems</li>
 </ul>
- <button type="button">CV</button>
- <a href="CV - Gerard Akpeki.pdf">Take a Look at my CV!</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/gerard-akpeki352) [![My CV](https://img.shields.io/badge/Portfolio-d48430?style=for-the-badge)](https://github.com/ZhoraEbashitEbalo/ZhoraEbashitEbalo/blob/main/CV%20-%20Gerard%20Akpeki.pdf) 
+
 <!--
 **ZhoraEbashitEbalo/ZhoraEbashitEbalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
