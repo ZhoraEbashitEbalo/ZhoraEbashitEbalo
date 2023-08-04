@@ -12,7 +12,7 @@
 </ul>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://linkedin.com/in/gerard-eki352) 
-[![My CV](https://img.shields.io/badge/Portfolio-d48430?style=for-the-badge)](https://github.com/ZhoraEbashitEbalo/ZhoraEbashitEbalo/blob/main/CV%20-%20Gerard%20Akpeki.pdf) 
+[![My CV](https://img.shields.io/badge/Portfolio-d48430?style=for-the-badge)](https://github.com/ZhoraEbashitEbalo/ZhoraEbashitEbalo/blob/main/Resume%20-%20Gerard%20Akpeki.pdf) 
 
 <!--
 **ZhoraEbashitEbalo/ZhoraEbashitEbalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
